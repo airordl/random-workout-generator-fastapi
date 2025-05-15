@@ -1,5 +1,5 @@
 {
-  "compound_push": {
+  "compound push": {
     "1": "Barbell Bench Press (Flat, Incline, Decline)",
     "2": "Dumbbell Bench Press (Flat, Incline, Decline)",
     "3": "Push-Up (Standard, Incline, Decline)",
@@ -8,7 +8,7 @@
     "6": "Dips (Chest or Triceps emphasis)",
     "7": "Machine Chest Press / Shoulder Press"
   },
-  "compound_pull": {
+  "compound pull": {
     "1": "Pull-Ups / Chin-Ups",
     "2": "Lat Pulldown",
     "3": "Barbell Bent-Over Row",
@@ -18,7 +18,7 @@
     "7": "Inverted Row",
     "8": "Deadlift (Conventional, Sumo)"
   },
-  "compound_legs": {
+  "compound legs": {
     "1": "Barbell Squat (Back, Front, Zercher)",
     "2": "Leg Press Machine",
     "3": "Lunges (Barbell, Dumbbell, Walking)",
@@ -62,22 +62,22 @@
     "5": "Close-Grip Bench Press",
     "6": "Dips (Triceps emphasis)"
   },
-  "legs_quads": {
+  "legs quads": {
     "1": "Leg Extension (Machine)",
     "2": "Front Squat",
     "3": "Hack Squat"
   },
-  "legs_hamstrings": {
+  "legs hamstrings": {
     "1": "Leg Curl (Lying, Seated, Standing Machine)",
     "2": "Glute Ham Raise",
     "3": "Nordic Curl"
   },
-  "legs_glutes": {
+  "legs glutes": {
     "1": "Hip Thrust (Barbell, Machine)",
     "2": "Glute Kickback (Cable, Machine)",
     "3": "Frog Pumps"
   },
-  "legs_calves": {
+  "legs calves": {
     "1": "Standing Calf Raise",
     "2": "Seated Calf Raise",
     "3": "Donkey Calf Raise"
@@ -92,7 +92,7 @@
     "7": "Bicycle Crunches",
     "8": "Weighted Crunch Machine"
   },
-  "full_body": {
+  "full body": {
     "1": "Clean and Press",
     "2": "Snatch",
     "3": "Kettlebell Swing",

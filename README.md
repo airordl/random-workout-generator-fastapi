@@ -6,6 +6,52 @@ It selects one random exercise from each muscle group, compound movement or full
 Not really useful for 1RM strength training, better suited for hypertrophy.
 
 ---
+## 🧠 Pros & Cons of Randomized Training (Strength vs. Hypertrophy)
+
+This app generates randomized workout plans. While variety can be fun and useful, it's important to understand the implications for different training goals — especially **strength** and **hypertrophy**.
+
+---
+
+### 🏋️ Strength Training
+
+| ✅ Pros | ⚠️ Cons |
+|--------|---------|
+| Reduces overuse injuries from repeated heavy movements | Lack of consistency can hinder progressive overload |
+| Encourages movement variety and skill development | No guarantee of hitting all major lifts regularly |
+| Keeps training mentally fresh | Difficult to track progress on compound lifts |
+
+---
+
+### 💪 Hypertrophy Training (Muscle Growth)
+
+| ✅ Pros | ⚠️ Cons |
+|--------|---------|
+| Hits muscles from different angles for balanced development | May not provide enough volume per muscle group per session |
+| Fun and engaging, prevents boredom | Hard to apply progressive overload systematically |
+| Useful for general fitness or variety days | Random selection can neglect key hypertrophy principles like time under tension or intensity |
+
+---
+
+### 🎯 When Randomized Training Works Best
+
+- ✅ Beginners building general movement experience
+- ✅ Cross-training, functional fitness, or “fun” sessions
+- ✅ Maintenance workouts or travel/limited-equipment routines
+- ✅ Mental variety to stay engaged
+
+---
+
+### 🚫 When It’s Not Ideal
+
+- ❌ Serious strength athletes (powerlifting, Olympic lifting)
+- ❌ Bodybuilders or physique-focused programs
+- ❌ Anyone following a strict progressive training plan
+
+---
+
+**Conclusion:**
+Randomized training is great for **novelty**, **general fitness**, or **casual users**, but should be used carefully or supplemented with structured progression for serious strength or hypertrophy goals.
+---
 
 ## 📦 Requirements
 
