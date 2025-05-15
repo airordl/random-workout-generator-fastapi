@@ -103,7 +103,7 @@ Visit [http://127.0.0.1:8000/random-workout](http://127.0.0.1:8000/random-workou
 
 2. Open `index.html` in your browser.
 
-3. See your random workout appear on the page.
+3. See your random workout appear on the page and refresh the page for a new set of random workouts
 
 ---
 
