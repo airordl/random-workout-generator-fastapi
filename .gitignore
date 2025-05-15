@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.swp
+venv/
+env/
+ENV/
+.Python
+build/
+dist/
+*.egg-info/
+
+
+# Frontend
+node_modules/
+*.log
+
+activate
+

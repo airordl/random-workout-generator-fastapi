@@ -1,0 +1,106 @@
+{
+  "compound_push": {
+    "1": "Barbell Bench Press (Flat, Incline, Decline)",
+    "2": "Dumbbell Bench Press (Flat, Incline, Decline)",
+    "3": "Push-Up (Standard, Incline, Decline)",
+    "4": "Overhead Press (Barbell or Dumbbell)",
+    "5": "Arnold Press",
+    "6": "Dips (Chest or Triceps emphasis)",
+    "7": "Machine Chest Press / Shoulder Press"
+  },
+  "compound_pull": {
+    "1": "Pull-Ups / Chin-Ups",
+    "2": "Lat Pulldown",
+    "3": "Barbell Bent-Over Row",
+    "4": "Dumbbell Row (Single Arm)",
+    "5": "Seated Cable Row",
+    "6": "T-Bar Row",
+    "7": "Inverted Row",
+    "8": "Deadlift (Conventional, Sumo)"
+  },
+  "compound_legs": {
+    "1": "Barbell Squat (Back, Front, Zercher)",
+    "2": "Leg Press Machine",
+    "3": "Lunges (Barbell, Dumbbell, Walking)",
+    "4": "Bulgarian Split Squat",
+    "5": "Romanian Deadlift / Stiff-Leg Deadlift",
+    "6": "Step-Ups"
+  },
+  "chest": {
+    "1": "Chest Fly (Machine, Dumbbell, Cable)",
+    "2": "Pec Deck Machine",
+    "3": "Cable Crossover (High, Mid, Low pulley)",
+    "4": "Incline Dumbbell Fly",
+    "5": "Svend Press"
+  },
+  "back": {
+    "1": "Straight Arm Lat Pulldown",
+    "2": "Face Pulls",
+    "3": "Cable Pullover",
+    "4": "Machine Row (Hammer Strength, Plate-loaded)",
+    "5": "Shrugs (Barbell, Dumbbell, Trap Bar)"
+  },
+  "shoulders": {
+    "1": "Lateral Raise (Dumbbell, Cable)",
+    "2": "Front Raise (Dumbbell, Plate, Cable)",
+    "3": "Rear Delt Fly (Reverse Pec Deck, Dumbbell, Cable)",
+    "4": "Upright Row (Barbell, EZ Bar)",
+    "5": "Cuban Press"
+  },
+  "biceps": {
+    "1": "Barbell Curl (Standard, EZ Bar)",
+    "2": "Dumbbell Curl (Alternating, Hammer, Concentration)",
+    "3": "Preacher Curl (Machine, Barbell)",
+    "4": "Spider Curl",
+    "5": "Cable Curl (Single, Rope, Straight bar)"
+  },
+  "triceps": {
+    "1": "Triceps Pushdown (Rope, Straight Bar)",
+    "2": "Overhead Triceps Extension (Dumbbell, Cable)",
+    "3": "Skull Crushers (EZ Bar)",
+    "4": "Kickbacks (Cable, Dumbbell)",
+    "5": "Close-Grip Bench Press",
+    "6": "Dips (Triceps emphasis)"
+  },
+  "legs_quads": {
+    "1": "Leg Extension (Machine)",
+    "2": "Front Squat",
+    "3": "Hack Squat"
+  },
+  "legs_hamstrings": {
+    "1": "Leg Curl (Lying, Seated, Standing Machine)",
+    "2": "Glute Ham Raise",
+    "3": "Nordic Curl"
+  },
+  "legs_glutes": {
+    "1": "Hip Thrust (Barbell, Machine)",
+    "2": "Glute Kickback (Cable, Machine)",
+    "3": "Frog Pumps"
+  },
+  "legs_calves": {
+    "1": "Standing Calf Raise",
+    "2": "Seated Calf Raise",
+    "3": "Donkey Calf Raise"
+  },
+  "core": {
+    "1": "Plank (Standard, Side, Weighted)",
+    "2": "Hanging Leg Raise",
+    "3": "Cable Crunch",
+    "4": "Decline Sit-Ups",
+    "5": "Russian Twists",
+    "6": "Ab Wheel Rollout",
+    "7": "Bicycle Crunches",
+    "8": "Weighted Crunch Machine"
+  },
+  "full_body": {
+    "1": "Clean and Press",
+    "2": "Snatch",
+    "3": "Kettlebell Swing",
+    "4": "Turkish Get-Up",
+    "5": "Sled Push / Pull",
+    "6": "Battle Ropes",
+    "7": "Farmer's Walk",
+    "8": "Medicine Ball Slam",
+    "9": "Thrusters (Squat to Overhead Press)"
+  }
+}
