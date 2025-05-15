@@ -49,9 +49,9 @@ This app generates randomized workout plans. While variety can be fun and useful
 ---
 
 **Conclusion:**
-```bash
+
 Randomized training is great for **novelty**, **general fitness**, or **casual users**, but should be used carefully or supplemented with structured progression for serious strength or hypertrophy goals.
-```
+
 ---
 
 ## 📦 Requirements
