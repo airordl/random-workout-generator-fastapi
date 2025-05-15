@@ -1,19 +1,19 @@
-# 🏋️ Random Workout Generator
+#  Random Workout Generator
 
 This project generates a random workout using FastAPI (Python) for the backend and HTML+JavaScript for the frontend.
 It selects one random exercise from each muscle group, compound movement or full body, every time the user loads the page.
 
 
 ---
-## 🧠 Pros & Cons of Randomized Training (Strength vs. Hypertrophy)
+##  Pros & Cons of Randomized Training (Strength vs. Hypertrophy)
 
 This app generates randomized workout plans. While variety can be fun and useful, it's important to understand the implications for different training goals — especially **strength** and **hypertrophy**.
 
 ---
 
-### 🏋️ Strength Training
+###  Strength Training
 
-| ✅ Pros | ⚠️ Cons |
+|  Pros |  Cons |
 |--------|---------|
 | Reduces overuse injuries from repeated heavy movements | Lack of consistency can hinder progressive overload |
 | Encourages movement variety and skill development | No guarantee of hitting all major lifts regularly |
@@ -21,9 +21,9 @@ This app generates randomized workout plans. While variety can be fun and useful
 
 ---
 
-### 💪 Hypertrophy Training (Muscle Growth)
+###  Hypertrophy Training (Muscle Growth)
 
-| ✅ Pros | ⚠️ Cons |
+|  Pros | Cons |
 |--------|---------|
 | Hits muscles from different angles for balanced development | May not provide enough volume per muscle group per session |
 | Fun and engaging, prevents boredom | Hard to apply progressive overload systematically |
@@ -31,20 +31,20 @@ This app generates randomized workout plans. While variety can be fun and useful
 
 ---
 
-### 🎯 When Randomized Training Works Best
+### When Randomized Training Works Best
 
-- ✅ Beginners building general movement experience
-- ✅ Cross-training, functional fitness, or “fun” sessions
-- ✅ Maintenance workouts or travel/limited-equipment routines
-- ✅ Mental variety to stay engaged
+-  Beginners building general movement experience
+-  Cross-training, functional fitness, or “fun” sessions
+-  Maintenance workouts or travel/limited-equipment routines
+-  Mental variety to stay engaged
 
 ---
 
-### 🚫 When It’s Not Ideal
+###  When It’s Not Ideal
 
-- ❌ Serious strength athletes (powerlifting, Olympic lifting)
-- ❌ Bodybuilders or physique-focused programs
-- ❌ Anyone following a strict progressive training plan
+-  Serious strength athletes (powerlifting, Olympic lifting)
+-  Bodybuilders or physique-focused programs
+-  Anyone following a strict progressive training plan
 
 ---
 
@@ -54,7 +54,7 @@ Randomized training is great for **novelty**, **general fitness**, or **casual u
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - `fastapi`
@@ -68,7 +68,7 @@ pip install fastapi uvicorn
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 All files are in one folder:
 
@@ -96,7 +96,7 @@ Visit [http://127.0.0.1:8000/random-workout](http://127.0.0.1:8000/random-workou
 
 ---
 
-## ✅ Usage
+## Usage
 
 1. Start the FastAPI server:
    ```bash
@@ -109,7 +109,7 @@ Visit [http://127.0.0.1:8000/random-workout](http://127.0.0.1:8000/random-workou
 
 ---
 
-## 💡 Notes
+##  Notes
 
 - The backend uses a JSON dictionary to simulate a database.
 - The frontend fetches data from the FastAPI endpoint.
@@ -118,7 +118,7 @@ Visit [http://127.0.0.1:8000/random-workout](http://127.0.0.1:8000/random-workou
 
 ---
 
-## 📬 Author
+##  Author
 
 Created by airordl  
 GitHub: [https://github.com/airordl](https://github.com/airordl)
