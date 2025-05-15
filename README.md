@@ -3,7 +3,6 @@
 This project generates a random workout using FastAPI (Python) for the backend and HTML+JavaScript for the frontend.
 It selects one random exercise from each muscle group, compound movement or full body, every time the user loads the page.
 
-Not really useful for 1RM strength training, better suited for hypertrophy.
 
 ---
 ## 🧠 Pros & Cons of Randomized Training (Strength vs. Hypertrophy)
